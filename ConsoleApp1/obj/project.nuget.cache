@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2KoG5+rXOl5gSMi7HSC8v75YmZWqjzYKEX/mKd9kyHfWqFkpHDTUgVqPOcS1Ug65UsUZYenijlloTcvnRBKfWA==",
+  "success": true,
+  "projectFilePath": "/home/oboufarra/cSharpFiles/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/oboufarra/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/oboufarra/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/oboufarra/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.14/microsoft.netcore.app.host.linux-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
